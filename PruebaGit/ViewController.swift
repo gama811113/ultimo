@@ -9,10 +9,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-//moodificadoiii
-   
-   
-  //fdjkdjskfjkdsj
     override func viewDidLoad() {
         //modif 1 khkhk
         super.viewDidLoad()
